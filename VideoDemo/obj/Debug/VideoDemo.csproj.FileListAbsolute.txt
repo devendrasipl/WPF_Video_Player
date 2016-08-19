@@ -1,0 +1,29 @@
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\VideoDemo.exe.config
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\VideoDemo.exe
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\VideoDemo.pdb
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\VideoDemo.csprojResolveAssemblyReference.cache
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\MainWindow.g.cs
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\Views\SampleView.g.cs
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\App.g.cs
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\VideoDemo_MarkupCompile.cache
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\VideoDemo_MarkupCompile.lref
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\MainWindow.baml
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\Views\SampleView.baml
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\VideoDemo.g.resources
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\VideoDemo.Properties.Resources.resources
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\VideoDemo.csproj.GenerateResource.Cache
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\VideoDemo.exe
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\VideoDemo.pdb
+c:\users\kapil\documents\visual studio 2015\Projects\VideoDemo\VideoDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Working Folder\WPF_Video_Player\VideoDemo\bin\Debug\VideoDemo.exe.config
+D:\Working Folder\WPF_Video_Player\VideoDemo\obj\Debug\VideoDemo.exe
+D:\Working Folder\WPF_Video_Player\VideoDemo\obj\Debug\VideoDemo.pdb
